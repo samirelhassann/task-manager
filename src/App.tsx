@@ -1,5 +1,7 @@
+import "./global.css";
+
 function App() {
-  return <>main</>;
+  return <div className="text-black">main</div>;
 }
 
 export default App;
