@@ -6,6 +6,9 @@ export default {
       fontFamily: {
         sans: ["Inter", "sans-serif"],
       },
+      gridTemplateColumns: {
+        "my-columns": "1fr auto",
+      },
     },
   },
   plugins: [],
