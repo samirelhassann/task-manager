@@ -1,4 +1,4 @@
-# Github Blog
+# Task Manager
 
 A Task Manager built in ReactJs + Typescript
 
